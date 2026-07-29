@@ -1,0 +1,3 @@
+Substitua o arquivo right.apk pelo APK real gerado pelo Flutter.
+Comando: flutter build apk --release
+Origem: build/app/outputs/flutter-apk/app-release.apk
