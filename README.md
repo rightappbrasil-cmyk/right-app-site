@@ -1,31 +1,26 @@
-# Site RIGHT — versão com cores do Brasil
+# RIGHT — site com as cores exatas da logo
 
-Esta versão usa uma paleta mais clara e mais próxima da bandeira brasileira:
+Paleta usada:
 
-- Verde principal: `#009C3B`
-- Amarelo: `#FFDF00`
-- Azul de detalhes: `#002776`
-- Verde escuro de apoio: `#004A1F`
+- Verde escuro: `#02401E`
+- Verde médio: `#105426`
+- Verde claro: `#328439`
+- Amarelo principal: `#F0C015`
+- Amarelo claro: `#F5C51C`
 
-O verde escuro é usado apenas onde o contraste é necessário.
+Nesta versão, as grandes áreas do site foram clareadas. O verde escuro aparece principalmente em textos, botões e na chamada final.
 
-# RIGHT Site V2
+## Prints do aplicativo
 
-## Colocar os prints
+Coloque os prints em `assets/screenshots` com os seguintes nomes:
 
-Abra `assets/screenshots` e coloque imagens JPG com estes nomes exatos:
+- `tela-timeline.jpg`
+- `tela-criar-post.jpg`
+- `tela-perfil.jpg`
+- `tela-grupos.jpg`
+- `tela-mensagens.jpg`
+- `tela-notificacoes.jpg`
 
-- tela-timeline.jpg
-- tela-criar-post.jpg
-- tela-perfil.jpg
-- tela-grupos.jpg
-- tela-mensagens.jpg
-- tela-notificacoes.jpg
-
-## Colocar o aplicativo
+## APK
 
 Substitua `downloads/right.apk` pelo APK verdadeiro.
-
-## Atualizar no GitHub
-
-Abra o repositório, clique em **Add file > Upload files**, envie todo o conteúdo desta pasta e clique em **Commit changes**. O GitHub Pages atualizará sozinho.
