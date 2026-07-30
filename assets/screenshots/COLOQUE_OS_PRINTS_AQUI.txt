@@ -1,0 +1,7 @@
+Use JPG e estes nomes:
+tela-timeline.jpg
+tela-criar-post.jpg
+tela-perfil.jpg
+tela-grupos.jpg
+tela-mensagens.jpg
+tela-notificacoes.jpg
