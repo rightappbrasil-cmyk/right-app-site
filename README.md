@@ -1,3 +1,14 @@
+# Site RIGHT — versão com cores do Brasil
+
+Esta versão usa uma paleta mais clara e mais próxima da bandeira brasileira:
+
+- Verde principal: `#009C3B`
+- Amarelo: `#FFDF00`
+- Azul de detalhes: `#002776`
+- Verde escuro de apoio: `#004A1F`
+
+O verde escuro é usado apenas onde o contraste é necessário.
+
 # RIGHT Site V2
 
 ## Colocar os prints
